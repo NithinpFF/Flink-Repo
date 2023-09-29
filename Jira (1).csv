@@ -1,0 +1,29 @@
+Issue key,Issue id,Status,Created,Updated,Summary
+FF-1117,38410,V2 - Enhancement,14/Jul/23 3:09 PM,21/Sep/23 4:22 PM,Enhancement: Not able to automate Flutter Web applications
+FF-1114,39332,V2 - Enhancement,01/Aug/23 10:54 AM,21/Sep/23 4:11 PM,User should have an option to get the Execution report in the HTML format
+FF-1113,35441,V2 - Enhancement,30/May/23 2:29 PM,21/Sep/23 4:01 PM,Enhancement :: User should be able to replace the newly captured elements with the existing element without manually changing the element name and type
+FF-1112,35271,V2 - Enhancement,26/May/23 1:15 PM,21/Sep/23 4:03 PM,Enhancement :: The user should be able to view all the deleted items in the separate deleted items feature.
+FF-1111,35250,V2 - Enhancement,26/May/23 12:13 PM,21/Sep/23 3:58 PM,Enhancement :: Multiple scripts and steps should be selectable and deletable by the user at the module and script levels.
+FF-1110,35007,V2 - Enhancement,23/May/23 12:22 AM,21/Sep/23 4:04 PM,Enhancements :: Drag and Drop option in the module level and in the script level
+FF-1108,37309,V2 - Enhancement,27/Jun/23 1:41 PM,21/Sep/23 4:08 PM,Enhancement: User should be able to get report in slack for the suite execution
+FF-1107,34999,V2 - Enhancement,22/May/23 10:55 PM,21/Sep/23 4:10 PM,Enhancement:: Commenting option in Script level
+FF-1105,35006,V2 - Enhancement,23/May/23 12:15 AM,21/Sep/23 4:16 PM,Enhancement :: TypeCasting NLP's & Common actions NLP's
+FF-1104,35276,V2 - Enhancement,26/May/23 1:59 PM,21/Sep/23 4:21 PM,Enhancement:: Search client machine option in Quick run settings and in Environment configuration
+FF-1076,42686,V2 - Enhancement,20/Sep/23 6:05 PM,21/Sep/23 4:12 PM,"In test development, ""If failed "" drop-down other checkpoint need to be implemented. "
+FF-1055,42653,V2 - Enhancement,20/Sep/23 3:11 PM,21/Sep/23 12:36 PM,Even after deleting the element from repository the script execution is getting passed.
+FF-1040,42589,V2 - Enhancement,19/Sep/23 4:46 PM,21/Sep/23 4:24 PM,Unable to export script
+FF-960,42309,V2 - Enhancement,14/Sep/23 3:18 PM,15/Sep/23 4:49 PM,"Lambda Test - When the script type is Web and Mobile type, user is not able to create Suite  "
+FF-848,41880,V2 - Enhancement,08/Sep/23 1:10 PM,21/Sep/23 6:55 PM,Enhancement: User should be able to get report in slack for the suite execution
+FF-792,41709,V2 - Enhancement,05/Sep/23 9:26 PM,19/Sep/23 10:59 AM,Re: Need some help for script level
+FF-734,41487,V2 - Enhancement,01/Sep/23 2:14 PM,08/Sep/23 1:18 PM,NTT DATA | Importing manual test cases to module level in FireFlink
+FF-733,41486,V2 - Enhancement,01/Sep/23 2:09 PM,08/Sep/23 1:18 PM,NTT DATA | Execution of manual test cases using feature tag names
+FF-732,41484,V2 - Enhancement,01/Sep/23 2:04 PM,08/Sep/23 12:36 PM,NTT DATA | Mapping of manual test cases to feature name
+FF-531,40917,V2 - Enhancement,22/Aug/23 12:08 PM,11/Sep/23 5:03 PM,BreakThru | An option to disable a step (leave it as it is in a script and it won't run). This way we don't have to delete and re-create the step(s)
+FF-528,40914,V2 - Enhancement,22/Aug/23 12:05 PM,09/Sep/23 2:53 PM,BreakThru | Is there a way to zoom in/out inside the fireflink client web section? The current state is way too zoomed-in
+FF-527,40913,V2 - Enhancement,22/Aug/23 12:04 PM,31/Aug/23 7:04 PM,"BreakThru | While a test is being ran, is there a way to check which step is being currently executed?"
+FF-524,40910,V2 - Enhancement,22/Aug/23 12:00 PM,09/Sep/23 2:52 PM,BreakThru | Explicit wait time can be used via a global variable (timer) only. How to set specific time for an element?
+FF-518,40903,V2 - Enhancement,22/Aug/23 11:45 AM,09/Sep/23 2:49 PM,BreakThru | Ability to delete multiple project elements
+FF-513,40898,V2 - Enhancement,22/Aug/23 11:41 AM,09/Sep/23 2:47 PM,"BreakThru | Search button is not doing anything in ""Execution Dashboard"" section too"
+FF-511,40895,V2 - Enhancement,22/Aug/23 11:39 AM,09/Sep/23 2:46 PM,BreakThru | Clicking on the 'Search' button in the Step module is not doing anything
+FF-507,40890,V2 - Enhancement,22/Aug/23 11:34 AM,09/Sep/23 2:44 PM,BreakThru | We have to manually add dynamic elements into fireflink platform. Is there a plan in near future to implement that feature where user can add dynamic element from the client?
+FF-497,40878,V2 - Enhancement,22/Aug/23 11:26 AM,09/Sep/23 2:41 PM,There's no logging available to verify what things are modified by a user
