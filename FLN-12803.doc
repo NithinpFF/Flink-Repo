@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#FLN-12803] FireFlink - Buy New License</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://tyss.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [FLN-12803]&nbsp;<a href="https://tyss.atlassian.net/browse/FLN-12803">FireFlink - Buy New License</a>
+            <span class="subText">
+               Created: 12/May/23                   &nbsp;Updated: 15/May/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">New</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://tyss.atlassian.net/secure/BrowseProject.jspa?id=10413">Flinko</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="63c007c894d18cbf67730ef8"
+                id="word_reporter_63c007c894d18cbf67730ef8"
+                href="https://tyss.atlassian.net/secure/ViewProfile.jspa?accountId=63c007c894d18cbf67730ef8">
+                    Nithin P
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-34542-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-1.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-10.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-2.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-3.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-4.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-5.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-6.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-7.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-8.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    FLN-10720-9.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    image-20230227-101856.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    image-20230310-051705.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    image-20230310-052041.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    image-20230403-063541.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://tyss.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    image-20230405-035112.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10100-34542-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h1><a name="Newstory"></a>New story</h1>
+
+<p><ins><b>Acceptance Criteria:</b></ins></p>
+
+<p><b>Given</b> user should have valid credentials to Login to the application,</p>
+
+<p><b>When</b> user clicks on <b>Buy New License</b> button in License List Page</p>
+
+<p><b>Then</b> user should be able to Buy New License.</p>
+
+<p><ins><b>What is to be Implemented:</b></ins></p>
+
+<ul>
+	<li><ins>Scenario-1:</ins> If the user who has signed up in other FireFlink products but sign in to FireFlink, then user should have access only to License section and he should be able to buy license by clicking on <b>Buy New License</b> button present at the center and at the top right corner of the page as show below.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24457" width="96.6896551724138%" style="border: 0px solid black" /></span>
+	<ol>
+		<li>By default user should be landed on license list page under <b>FireFlink License</b> tab.</li>
+		<li>Upon clicking <b>FireCloud Licenses</b> tab, user will be navigated to license list page of FireCloud License.</li>
+		<li>Name of the page should be <b>License List.</b></li>
+		<li>At the top right corner provide <b>Search</b> icon, upon clicking it Search bar should be opened and user should be able to search the license by License name and Purchased By name.(Place holder should be <b>Search License</b>).</li>
+		<li>To the right of Search icon and at the center of the page, provide <b>Buy New License</b> button. Upon clicking the Buy New License button, user should be navigated to Buy New License page.</li>
+		<li>Now user can purchase Cloud Basic or Cloud Professional type of license.</li>
+		<li><ins>Buying Cloud Basic license:</ins><br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24452" width="93.37931034482759%" style="border: 0px solid black" /></span>
+		<ol>
+			<li>Name of the Page should be <b>Buy New License.</b></li>
+			<li>A card should be displayed in blue colour with text at center as <b>Select Plan.</b></li>
+			<li>Below Select Plan card, display a dropdown with header name as <b>License Type</b> and dropdown should have options as Cloud Basic and Cloud Professional and by default Cloud Basic should be selected.</li>
+			<li>Below license type a card should be displayed which has 4 sections.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24453" width="90.06896551724138%" style="border: 0px solid black" /></span>
+			<ol>
+				<li>In the 1st section, for Cloud Basic
+				<ol>
+					<li>All the Automation features checkbox should be selected by default and should be in disabled state.</li>
+					<li>Provide a text field with header as <b>No of Parallel Runs</b> and it should accept only numbers and user should be able to increase and decrease the number by using upward and downward arrow options provided. Min value should be 1 &amp; default value should be 1.</li>
+					<li>Manual Test Case Management should be selected by default and should be in disabled state.</li>
+					<li>Defect Management should be selected by default and should be in disabled state.</li>
+					<li>Provide a text field with header as <b>Storage</b> and it should accept only numbers and user should be able to increase and decrease the number by using upward and downward arrow options provided. for Cloud Basic default value should be 2GB and text field should be in disabled state. Below Storage provide a message as <b>2GB free.</b></li>
+				</ol>
+				</li>
+				<li>In the 2nd section, for Cloud Basic
+				<ol>
+					<li>Provide checkbox for <b>FireCloud Platform</b> and it should have 2 sub checkboxes as <b>Browsers</b> and <b>Devices</b>. All the checkbox should be unselected.(Not Mandatory)</li>
+					<li>Provide a text field with header as <b>No of Parallel Runs</b> and it should accept only numbers and user should be able to increase and decrease the number by using upward and downward arrow options provided. for Cloud Basic default value should be 1 and text field should be in disabled state.(should be enabled only if any one of Automation features is selected and Min value should be 1).</li>
+					<li>Provide an image with text at center as Explore FireCloud. upon clicking it user should be navigated to required website(Not confirmed).</li>
+				</ol>
+				</li>
+				<li>Name of the 3rd section should be Purchase Summary. For Cloud Basic only show entry of FireFlink Platform charges. This section should be in table format and should have columns as mention below.
+				<ol>
+					<li>Specifications.</li>
+					<li>Cost Per Quantity.</li>
+					<li>Total Quantity.</li>
+					<li>Total Cost.</li>
+				</ol>
+				</li>
+				<li>Name of the 4th section should be <b>Total Amount</b>.
+				<ol>
+					<li>Provide Key as <b>Net Total</b> and value as $0.00.</li>
+					<li>Provide Key as <b>Tax</b> and value as $0.00.</li>
+					<li>At the bottom of the section provide Key as <b>Grand Total</b> and value as $0.00(in Blue colour).</li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li>At the bottom right corner of the page provide <b>Cancel</b> button. Upon clicking it user should be navigated to License List page.</li>
+			<li>To the right of <b>Cancel</b> button provide, <b>Buy At Free</b> button. Upon clicking it, Success popup should be displayed as  shown below.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24471" width="90.06896551724138%" style="border: 0px solid black" /></span></li>
+		</ol>
+		</li>
+		<li><ins>Buying Cloud Professional license:</ins><br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24450" width="93.37931034482759%" style="border: 0px solid black" /></span>
+		<ol>
+			<li>Name of the Page should be <b>Buy New License.</b></li>
+			<li>A card should be displayed with 2 sections. <b>Select Plan</b> and <b>Payment Details</b>, by default Select plan should be selected and should be highlighted in blue colour and Payment Details should be in gray colour.</li>
+			<li>Below Select Plan card, provide a dropdown with header name as <b>License Type</b> and dropdown should have options as Cloud Basic and Cloud Professional and user needs to select Cloud Professional.</li>
+			<li>To the right of License type, provide a dropdown with header name as <b>Billing Cycle</b> and dropdown should have options as <b>Monthly, Quarterly, Half Yearly</b> and <b>Yearly</b>. By default Monthly should be selected.</li>
+			<li>Below license type a card should be displayed which has 4 sections.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24454" width="90.06896551724138%" style="border: 0px solid black" /></span>
+			<ol>
+				<li>In the 1st section, for Cloud Professional
+				<ol>
+					<li>Provide a checkbox as Automation and sub checkboxes as WebService, Web, Mobile, SalesForce and MS Dynamics.</li>
+					<li>Provide a text field with header as <b>No of Parallel Runs</b> and it should accept only numbers and user should be able to increase and decrease the number by using upward and downward arrow options provided (should be enabled only if any one of Automation features is selected and Min value should be 1).</li>
+					<li>Provide a checkbox as Manual Test Case Management.</li>
+					<li>Provide a checkbox as Defect Management.</li>
+					<li>Provide a text field with header as <b>Storage</b> and it should accept only numbers and user should be able to increase and decrease the number by using upward and downward arrow options provided. for Cloud Professional default value should be 5GB. Below Storage provide a message as <b>5GB free.</b></li>
+				</ol>
+				</li>
+				<li>In the 2nd section, for Cloud Professional
+				<ol>
+					<li>Provide checkbox for FireCloud Platform and it should have 2 sub checkboxes as Browsers and Devices. Checkboxes should be enabled only if user selects one of Automation feature(Not Mandatory to select).</li>
+					<li>Provide a text field with header as <b>No of Parallel Runs</b> and it should accept only numbers and user should be able to increase and decrease the number by using upward and downward arrow options provided(should be enabled only if any one of features is selected and Min value should be 1).</li>
+					<li>Provide an image with text at center as Explore FireCloud. upon clicking it user should be navigated to required website(Not confirmed).</li>
+				</ol>
+				</li>
+				<li>Name of the 3rd section should be Purchase Summary. Entries in purchase summary should be generated based on features selected by the user and if entries are more provide scroll. This section should be in table format and should have columns as mention below.
+				<ol>
+					<li>Specifications.</li>
+					<li>Cost Per Quantity.</li>
+					<li>Total Quantity.</li>
+					<li>Total Cost.</li>
+				</ol>
+				</li>
+				<li>Name of the 4th section should be Total Amount.
+				<ol>
+					<li>Provide Key as <b>Net Total</b> and value as $
+{calculated}.<br/>
+<b>#### Provide Key as *Tax</b> and value as ${calculated}
+<p>.</p></li>
+					<li>At the bottom of the section provide Key as <b>Grand Total</b> and value as *$
+{calculated}
+<p>*(in Blue colour).</p></li>
+				</ol>
+				</li>
+			</ol>
+			</li>
+			<li>At the bottom right corner of the page provide <b>Cancel</b> button. Upon clicking it user should be navigated to License List page.</li>
+			<li>To the right of <b>Cancel</b> button provide, <b>Next</b> button. Upon clicking it, user should be navigated to <b>Payment Details</b> page.(Note: If user is buying Cloud Professional license, then until one of the features is selected, <b>Next</b> button should be disabled.)</li>
+			<li>After successful payment, Payment Successful popup should be displayed.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24451" width="90.06896551724138%" style="border: 0px solid black" /></span>
+			<ol>
+				<li>It should have <b>Download Receipt</b> button, upon clicking it receipt should be downloaded.</li>
+				<li>Upon clicking <b>Close</b> button, popup should be closed and user should be in License list page.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24456" width="86.75862068965517%" style="border: 0px solid black" /></span></li>
+			</ol>
+			</li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+	<li><ins>Scenario-2:</ins> For the users who have signed up in FireFlink and got activated, a Cloud Basic license will be given by default. If he signs in he should be navigated to <b>Projects</b> section at all project level. If he navigates to license section then he should be able to view his Cloud Basic license.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24455" width="96.6896551724138%" style="border: 0px solid black" /></span>
+	<ul>
+		<li>In Scenario-2, if user click on Buy New License button, then Cloud Professional should be selected under License type dropdown and dropdown should be disabled.</li>
+	</ul>
+	</li>
+	<li><ins>Scenario-3:</ins> For users who have been added to the license directly without Registration process, In license list page, all the licenses for which they have been added should be displayed. Upon clicking <b>Buy New License</b> button same flow as Scenario-1 should be followed.</li>
+	<li><ins>Scenario-4:</ins> If the user upgrades his own Cloud basic license to Cloud professional then upon on clicking on Buy New license button then <b>license type</b> dropdown should have both Cloud Basic and Cloud Professional options. By default Cloud Basic should be selected.</li>
+</ul>
+
+
+<p><ins><b>Breadcrumb:</b></ins></p>
+
+<ol>
+	<li>When user is in FireFlink license list page then the Bread crumb should be                                                                   Home icon&gt;Licenses&gt;FireFlink Licenses.</li>
+	<li>When user is in FireFlink license list page &amp; click on Buy New License button, then the Bread crumb should be                                                                   Home icon&gt;Licenses&gt;FireFlink Licenses&gt;Buy New License.</li>
+</ol>
+
+
+<p><ins><b>Design Criteria:</b></ins></p>
+
+<ol>
+	<li><b>Buy New License, Next, Buy At Free, Upgrade, Renew</b> and <b>Close</b> buttons should be in blue colour.</li>
+	<li><b>Download Receipt, Cancel</b> button should be in grey colour.</li>
+	<li>License icons colors should be based on license status.
+	<ol>
+		<li>Active - Green.</li>
+		<li>Expired - Red.</li>
+		<li>Active(but about to expire) - Orange.</li>
+	</ol>
+	</li>
+	<li>License status.
+	<ol>
+		<li>Active - Green.</li>
+		<li>Expired - Red.</li>
+		<li>Not Active - Grey.</li>
+	</ol>
+	</li>
+	<li>For colour references and colour codes please refer XD Link provided below.</li>
+</ol>
+
+
+<p><ins><b>XD Link:</b></ins>   <a href="https://xd.adobe.com/view/1a7a0fda-3078-4316-b0c4-2cfc43babfe7-4f29/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://xd.adobe.com/view/1a7a0fda-3078-4316-b0c4-2cfc43babfe7-4f29/</a> </p>
+
+<p><ins><b>Functional Validation:</b></ins></p>
+
+<ol>
+	<li>For Scenario-1 and Scenario-3,  License type dropdown should be enabled and by default Cloud Basic should be selected.</li>
+	<li>For Scenario-2,   Cloud Professional should be selected under License type dropdown and dropdown should be disabled.</li>
+	<li>For Cloud Basic only <b>Select Plan</b> section should be displayed and <b>Buy At Free</b> button should be displayed at the bottom right corner.</li>
+	<li>For Cloud Professional <b>Select Plan</b> and <b>Payment Details</b> section should be displayed and <b>Next</b> button should be displayed at the bottom right corner.</li>
+	<li>Billing cycle dropdown should be displayed only if Cloud Professional is selected in License type dropdown. If Cloud Basic is selected then Billing cycle dropdown should be hidden.</li>
+	<li>Number of Parallel Runs should be enabled only if one of automation feature is selected.</li>
+	<li>Min and Max value for Number of Parallel Runs is 1 and 3000 respectively.</li>
+	<li>Min value for storage is 2GB for Cloud Basic and 5GB for Cloud Professional.</li>
+	<li>If user is buying Cloud Professional license, then until one of the features is selected, <b>Next</b> button should be disabled.</li>
+	<li><b>Upgrade</b> and <b>Renew</b> buttons should not be displayed for Admins and Users.</li>
+	<li>If invalid input is entered in Search bar, then “No Licenses Found“ message should be displayed at the center of the page.</li>
+	<li>For main checkboxes selected state should depend on the sub checkboxes.
+	<ol>
+		<li>If all sub checkboxes are selected, then main checkboxes should be fully selected state.</li>
+		<li>If only few sub checkboxes are selected, then main checkboxes should be in partially selected state.</li>
+		<li>If no sub checkboxes are selected, then main checkboxes should be in unselected state.</li>
+		<li>If main checkbox is selected, then all the sub checkboxes should be selected.<br/>
+<span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24468" width="68.37931034482759%" style="border: 0px solid black" /></span></li>
+	</ol>
+	</li>
+	<li>If User is purchasing a Cloud Basic License then FireCloud section should be enabled and if user is selects<br/>
+any feature from the FireCloud section, then user should be charged for that respective features as shown<br/>
+in below slide.(Charges are only for FireCloud features, C-Basic is free).</li>
+	<li><b>Note</b>: User can have any number of Cloud Professional licenses but can have only one Cloud Basic license at any point of time.</li>
+	<li>For <b>Manual Test Case Management</b> and <b>Defect Management</b> the <b>total quantity</b> section in Purchase Summary, value should be always one.</li>
+</ol>
+
+
+
+
+
+
+
+
+
+<h1><a name="Oldstory"></a>Old story</h1>
+
+<p><ins><b>Acceptance Criteria:</b></ins></p>
+
+<p>Given user should have valid credentials to Login to the application and</p>
+
+<p>When user clicks on Buy New License button in License Module under License List Page</p>
+
+<p>Then user should be able to Buy New License.</p>
+
+<p><ins><b>What is to be Implemented:</b></ins></p>
+
+<p><b>·</b>      Upon clicking on License Module in the Left Navigation Bar User should be able to buy new License</p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24475" width="100%" style="border: 0px solid black" /></span></p>
+
+<p>1.User should be able to navigate to license section (marked as 1 in the above slide) which is present in the All Projects section.</p>
+
+<p>2.Which should have two tabs Fireflink License (marked as 2) and Fire Cloud Licenses (marked as 3)</p>
+
+<p><a href="http://3.By" class="external-link" rel="nofollow noreferrer">3.By</a> default user should be under FireFlink Licenses tab.</p>
+
+<p>4.User should be able to see Buy New License button (marked as 4 in the above figure) in the top right corner of the page.</p>
+
+<p><b>Note:</b> Upon clicking on <b>Purchased By</b> name, User details model should be shown.</p>
+
+<ol>
+	<li></li>
+</ol>
+
+
+<p><b>Upgrade</b> button should be provided on the right corner next to the <b>Purchased By</b> header till the license expires.(mentioned as 5 in the above slide)</p>
+
+<p>    <b>a.</b>  Once license expires, upgrade button should be removed and <b>Renew</b> button should be displayed.</p>
+
+<p>    <b>b. Renew</b> button and <b>Upgrade</b> button should be provided in the last remaining 15 days of License expiry </p>
+
+<p>         date (if it is yearly billing cycle) or in the last remaining 5 days of License expiry date (if it is monthly billing</p>
+
+<p>          cycle) </p>
+
+<p>6.When user is in FireFlink license list page then the Bread crumb should be Home icon&gt;Licenses&gt;FireFlink Licenses. (mentioned as 6 in the above slide)</p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24473" width="91.67%" style="border: 0px solid black" /></span></p>
+
+
+
+<p>7.Upon clicking on the Buy New License button user should be able to see the above screen where user can see 2 tabs i.e.  1.SELECT PLAN  2. PAYMENT DETAILS.</p>
+
+<p>8.Under SELECT PLAN tab user should be able to see 3 sections</p>
+
+<p>In the first section (marked as 3)</p>
+
+<p>a. User should be able to see a dropdown with header “License Type” (Mandatory field) and the options of the</p>
+
+<p>   dropdown should be a) Cloud Basic b) Cloud Professional</p>
+
+<p>              i. If the user have <b>cloud basic license</b> upon on clicking on Buy New license then in the <b>license type</b> </p>
+
+<p>                 dropdown it should have only <b>cloud professional</b> license.</p>
+
+<p>              ii. If the user doesn’t have his own  <b>cloud basic</b> license*,* upon on clicking on Buy New license then in the </p>
+
+<p>                  <b>license type</b> dropdown it should have both <b>cloud Basic</b> and <b>cloud professional</b> license.</p>
+
+<p>              iii. If the user upgrades his own <b>cloud basic</b> license to <b>cloud professional</b> then upon on clicking on Buy </p>
+
+<p>                 New license then in the <b>license type</b> dropdown show Select License type in the place holder and </p>
+
+<p>                 dropdown have both <b>cloud Basic</b> and <b>cloud professional</b> license.</p>
+
+<p>b. Beside License Type user should be able to see another dropdown with header “Billing Cycle” ”(Mandatory field) and the options of the dropdown should be a) Monthly b) Yearly.</p>
+
+<p><a href="http://9.In" class="external-link" rel="nofollow noreferrer">9.In</a> the second section user should be able to see checkboxes for Automation, Manual Test Case Management, Defect Managements (marked as 4)</p>
+
+<p>Under Automation checkbox user should be able to see Web service, Web, Mobile, Salesforce and MS Dynamics with checkbox, based on which the user checks the checkboxes the types should be selected and if the user selects all the checkboxes under automation then the checkbox of automation will be checked automatically if any one of them isn’t checked then checkbox of automation will be partially checked. If user checks on automation checkbox, then all the options under it should be selected automatically.</p>
+
+<p>10.Below automation checkbox, a Select Dropdown field with header “Number of Parallel Runs” (Mandatory Field) should be present, where user should be able to increase or decrease the value.</p>
+
+<p>This should be enabled only when at least one of the automation types is checked where user can able to enter the values from 1 to 3000.</p>
+
+<p>11.Below Number of Parallel Runs field user should be able to see and check the checkbox of Manual Test Case Management.</p>
+
+<p> 12.Below Manual Test Case Management user should be able to see and check the checkbox of Defects Management.</p>
+
+<p>13.Below checkbox of Defects Management user should be able to see a select dropdown field with header “Storage” (Mandatory Field), and user should be able to increase or decrease the value.</p>
+
+<p><b>So in the second section based on the checkboxes checked, user should be able to have the features in the license.</b></p>
+
+<p>14.Beside second section user should be able to see Fire Cloud Platform section in which a checkbox should be visible with name Fire Cloud Platform Under this user should be able to see 2 checkboxes with name Browsers and Devices, If user selects both Browsers and Devices then checkbox of Fire Cloud Platform will be fully checked if not it will be partially checked. (marked as 5) </p>
+
+<p>        a. If User is purchasing a Cloud Basic License then Firecloud section should be enabled and if user is selects</p>
+
+<p>           any feature from the Firecloud section, then user should be charged for that respective features as shown</p>
+
+<p>            in below slide.(Charges are only for Firecloud features, C-Basic is free).</p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24472" width="100%" style="border: 0px solid black" /></span></p>
+
+
+
+<p>        b. If User is purchasing a Cloud Professional License then Firecloud section should be enabled if user selects</p>
+
+<p>           automation Feature or combination of automation feature as shown below. </p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24474" width="100%" style="border: 0px solid black" /></span></p>
+
+
+
+<p>         c. If User is purchasing a Cloud Professional License and does not include automation feature, then</p>
+
+<p>            Firecloud section should be disabled but Explore Firecloud svg should be always enabled.</p>
+
+<p><span class="image-wrap" style=""><img src="/rest/api/3/attachment/content/24476" width="100%" style="border: 0px solid black" /></span></p>
+
+
+
+<p>15. Below second section user should be able to see Purchase Summary (marked as 6)</p>
+
+<p>Header should be provided as <b>Purchase Summary</b> on the top left section all the letters should be given in the uppercase.</p>
+
+<p>Column Header should be provided as <b>Specifications</b>, <b>Cost per Quantity</b>, <b>Total Quantity Total cost ($).</b></p>
+
+<p>The values in the table should be updated as user select the checkbox in the second section and cost should be updated as per selection.</p>
+
+<p>16.Beside Purchase Summary user should be able to see Total Amount section which contains Net Total with the value and Tax with the value and at the bottom user should be able to see Grand Total with the value. (marked as 7)</p>
+
+<p>17. At the bottom right corner of the page user should be able to see <b>Next</b> and <b>Cancel</b> button . (marked as 8)</p>
+
+<p>18. Upon clicking on cancel button the page should be closed and user should be navigated to License List Page , and if the user clicks on Next button user should be able to navigate to PAYMENT DETAILS section and after successful payment user should be able to access the bought license.</p>
+
+<p>19.When user is in Buy new license Page under FireFlink License tab then bread crumb should be Home icon &gt; Licenses&gt;FireFlink Licenses&gt;Buy New License</p>
+
+<p><b>Design Requirement:</b></p>
+
+<p>1.Buy New License Button should be present in blue colour on the top right corner of the page.</p>
+
+<p>2.Whenever user clicks on Buy New License button above screen should be displayed.</p>
+
+<p>3.Explore Fire Cloud svg icon should always be enabled upon clicking on it user should be navigated to &lt;&lt;Website Link (Link not confirmed yet)&gt;&gt;.</p>
+
+<p>4.Fire Cloud svg should be always enabled </p>
+
+<p><b>XD design Link:</b><a href="https://xd.adobe.com/view/e4848197-b1df-4f90-91a2-820dba8de849-b1d7/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://xd.adobe.com/view/e4848197-b1df-4f90-91a2-820dba8de849-b1d7/</a> </p>
+
+<p><b>Functional Validations:</b></p>
+
+<p>1.If user doesn’t have any license then user should be able to select either Cloud Professional/ Cloud Basic license (When user is created by adding into someone’s license as user).</p>
+
+<p>2.If user already has Cloud Basic license then user should be able to select only Cloud Professional license (Role as Super Admin)</p>
+
+<p>3.If user has Cloud Professional license/licenses then user should be able to select Cloud Basic and Cloud Professional license types.</p>
+
+<p>4.Fire Cloud Section will be enabled once when user selects any Automation feature (if not it should be in the disabled state) for Cloud Professional license .</p>
+
+<p>5.When user selects cloud basic license  then Fire Cloud section should be in the enabled state.</p>
+
+<p>6.The default and Minimum Parallel Run should be 1 for both the type of licenses.</p>
+
+<p>7.The default and Minimum storage should be  2GB(Cloud Basic) can be increased at any point of time.</p>
+
+<p>8.The default and Minimum storage should be  5GB(Cloud Professional). can be increased at any point of time.</p>
+
+<ol>
+	<li>when user is upgrading his cloud basic License to Cloud Professional License  and selecting any one Automation feature then we should display note message saying for eg: “ You have selected web feature remaining project type will not able to access” .(Below storage section it should display note message).</li>
+</ol>
+
+
+<p>10.Upon selecting Cloud Basic license under license type dropdown, Billing Cycle dropdown should be hidden.</p>
+
+<p><a href="http://11.In" class="external-link" rel="nofollow noreferrer">11.In</a> buy license page, if the purchase cost is zero (for Cloud Basic license) then <b>Buy At Free</b> button should be shown, if not <b>Next</b> Button should be given.</p>
+
+<p>12.<b>For existing licenses, in project type dropdown, options should be provided based on the existing plan which they have purchased. Ex: If present user has selected Salesforce, then for the new implementation, below hierarchy project should be allowed to be created this the existing plan expires.</b></p>
+
+<p><b>Note</b>: So the user can have any number of Cloud Professional licenses but can have only one Cloud Basic license at any point of time.</p>
+
+<p><b>Purchase Summary Scenarios.</b></p>
+
+<ol>
+	<li>Ex: If user has selected only Manual test case Management, then purchase summary should contain two row items </li>
+</ol>
+
+
+<p><b>FireFlink Platform</b>(Specifications)-149(Cost of quantity)-1(Total quantity)-149(Total cost).</p>
+
+<p><b>Manual Test Case Management</b>(Specifications)-29(Cost of quantity)-1(Total quantity)-29(Total cost).</p>
+
+<p>2.Ex: If user has selected both Automation (Web) and Manual test case Management, if user had selected 3 parallel runs then purchase summary should contain the following row items</p>
+
+<p><b>FireFlink Platform</b> (Specifications)-149(Cost of quantity)-3 Parallel Runs(Total quantity)-447(Total cost).</p>
+
+<p><b>Web Automation</b> (Specifications)<del>49(Cost of quantity)</del> 3 Parallel Runs (Total quantity)- 147(Total cost).</p>
+
+<p><b>Mobile Automation</b> (Specifications)<del>49(Cost of quantity)</del> 3 Parallel Runs (Total quantity)- 147(Total cost).</p>
+
+<p><b>Salesforce Automation</b>(Specifications)<del>99(Cost of quantity)</del> 1Parallel Run (Total quantity)- 99(Total cost).</p>
+
+<p><b>MS Dynamics Automation</b>(Specifications)<del>99(Cost of quantity)</del> 1Parallel Run (Total quantity)- 99(Total cost).</p>
+
+<p>·*Manual Test Case Management(*Specifications)-29(Cost of quantity)-1(Total quantity)-29(Total cost).</p>
+
+<p><b>Defect Management</b>(Specifications)-29(Cost of quantity)-1(Total quantity)-29(Total cost).</p>
+
+<p>3.Ex: If user has selected only Defect Management, then purchase summary should contain two row items </p>
+
+<p><b>FireFlink Platform</b> (Specifications)-149(Cost of quantity)-1(Total quantity)-149(Total cost).</p>
+
+<p><b>Defect Management</b>(Specifications)-29(Cost of quantity)-1(Total quantity)-29(Total cost).</p>
+
+<p> 4.If user has selected Fire Cloud checkbox inside that section user has selected Browser checkbox and selected parallel run as 2 then purchase summary should contain</p>
+
+<p><b>Fire Cloud -Browser</b> (Specifications)-90(Cost of quantity)-2 Parallel Runs (Total quantity)-180(Total cost).</p>
+
+<ol>
+	<li>By default Purchase Summary should contain details of FireFlink platform cost and storage cost based on the license types.</li>
+</ol>
+
+
+<p><b>Note:</b> For <b>Manual Test Case Management</b> and <b>Defect Management</b> the <b>total quantity</b> section should be always one.</p>
+
+<p>When automation is included in <b>Total Quantity</b> column with the <b>numbers</b> count user should be able to see <b>Parallel Run</b> text</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Tue Jul 18 04:41:47 UTC 2023 by Nithin P using Jira 1001.0.0-SNAPSHOT#100232-sha1:4a3b42c06bc505885b7df3f46a55defdcb7b1836.
+
+</body>
+</html>
