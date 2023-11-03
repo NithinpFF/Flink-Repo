@@ -1,0 +1,9 @@
+Summary,Issue key,Status,Project key,Description,
+Connecture-Custom Report Enhancement,FF-1930,In Progress,FF,Connecture is looking for custom report based on In the Flaky tests prioritize/weightage on test failures.,
+Connecture-Custom Report Enhancement,FF-1929,In Progress,FF,Connecture is looking for custom report based on In the Flaky tests section add a column to show the number occurrences of re execution.,
+Connecture-Custom Report Enhancement,FF-1928,In Progress,FF,Connecture is looking for custom report based on Able to search by step group and displays all the testcases it is used.,Impact List will resolve this
+Connecture-Custom Report Enhancement,FF-1926,In Progress,FF,"Connecture is looking for custom report based on Test coverage report - By JiraId, By Test, By Label (manual and automation).",
+Connecture-Custom Report Enhancement,FF-1925,In Progress,FF,"Connecture is looking for custom report based on Flaky test report by label, by testù.",
+Connecture-Custom Report Enhancement,FF-1924,In Progress,FF,"Connecture is looking for custom report based on Test execution report by user, by date and by label (manual and automation)ù.",
+Connecture-Custom Report Enhancement,FF-1923,In Progress,FF,"Connecture is looking for custom report based on Test script development report by user, by date and by label (manual and automation).",
+Connecture-Custom Report Enhancement,FF-1922,In Progress,FF,"Connecture is looking for custom report based on Requirement Traceability - By Label (Shows JiraId, Test cases associated, Test execution status, Bugs associated).",
